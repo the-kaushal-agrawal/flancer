@@ -1,29 +1,19 @@
-# Debug Thugs 
+# Hackmol 3.0 (Organized by Google Developer Student Club, NIT Jalandhar)
+
 ## Idea - A Freelancer Website (F-Lancer)
 
+My part in team is to create backend of this project, I have created different routes such as Rating, Withdraw, Profile.
+
 Tech Stack used is 
-- HTML
-- CSS
-- Javascript
-- Bootstrap
+
 - EJS
 - Node.js
 - Express
 - MongoDB
 - jQuery
 
----
- Team details
-- Team Name : Debug Thugs
-- Track : Main Track
-
----
- Team Members
-- Kaushal Agrawal
-- Prakhar Mishra
-- Vishal Sony
-- Akshay Khandelwal
-
+ 
+ 
 ---
 ### Description of Idea
 
